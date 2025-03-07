@@ -3,7 +3,7 @@
 # About Project
 AR Depth 인식 기반으로 개발한 멀티플레이 FPS Defense 게임입니다.
 ## Video
-<a href="https://youtu.be/49dSSmOEvw8">
+<a href="https://www.youtube.com/playlist?list=PLHuaSw-CkFjHa11A6kE3GTmuBbO209Vxt">
     <img src="https://github.com/user-attachments/assets/f27bcbf3-96ed-4fde-a218-c972101ec4bd" width="500">
 </a>
 
