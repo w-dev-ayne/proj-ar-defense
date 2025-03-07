@@ -10,7 +10,7 @@ Unity (2022.2.17), Unity AR Foundation, Unity Netcode,
 ## Play Info
 1. 첫 씬에서 Multiplayer 클릭
 2. 한 플레이어는 Play as host 클릭
-3. 다른 플레이어는 Play as clinet 에서 호스트 플레이어의 IP 주소 입력
+3. 다른 플레이어는 호스트 플레이어의 IP 주소 입력 후 Play as client 클릭
 4. 플레이할 공간의 바닥 인식을 진행한 후 게임 시작
 
 ## Video (Thumbnail Link)
