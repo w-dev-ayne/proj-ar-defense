@@ -17,3 +17,6 @@ Unity (2022.2.17), Unity AR Foundation, Unity Netcode,
 <a href="https://www.youtube.com/playlist?list=PLHuaSw-CkFjHa11A6kE3GTmuBbO209Vxt">
     <img src="https://github.com/user-attachments/assets/f27bcbf3-96ed-4fde-a218-c972101ec4bd" width="500">
 </a>
+
+## Error
+1. 최초 실행시 카메라 권한 허용 후, 앱이 정상적으로 작동하지 않으면, 앱을 재시동 해주세요.
